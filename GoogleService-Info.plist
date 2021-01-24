@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>747082710124-uk4oicgjrj0316tn956h2mklb9sdp29l.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.747082710124-uk4oicgjrj0316tn956h2mklb9sdp29l</string>
+	<key>API_KEY</key>
+	<string>AIzaSyDVWNgYBsYhvz96Gn-NR5Lvyk7-5C2nIZY</string>
+	<key>GCM_SENDER_ID</key>
+	<string>747082710124</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>alan.kim.Photoapp</string>
+	<key>PROJECT_ID</key>
+	<string>photo-app-d373e</string>
+	<key>STORAGE_BUCKET</key>
+	<string>photo-app-d373e.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:747082710124:ios:17d5cd8ab99422254dec49</string>
+	<key>DATABASE_URL</key>
+	<string>https://photo-app-d373e.firebaseio.com</string>
+</dict>
+</plist>
